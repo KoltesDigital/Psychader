@@ -1,0 +1,7 @@
+.vs/
+Build/
+Library/
+Temp/
+*.blend?
+*.csproj
+*.sln
